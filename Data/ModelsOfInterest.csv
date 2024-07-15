@@ -10,11 +10,20 @@
 8,Boeing,787,1129,wide-body
 9,Airbus,A350,602,wide-body
 10,Airbus,A220,335,narrow-body
-11,Cessna,172,100,small
-12,Cessna,182,100,small
-13,Cessna,206,100,small
-14,Cessna,208,100,small
+11,Cessna,172,100,light aircraft
+12,Cessna,182,100,light aircraft
+13,Cessna,206,100,light aircraft
+14,Cessna,208,100,light aircraft
 15,Cessna,525,100,business jet
 16,Cessna,560,100,business jet
 17,Cessna,680,100,business jet
 18,Cessna,700,100,business jet
+19,Piper,PA-28,100,light aircraft
+20,Piper,PA-34,100,light aircraft
+21,Piper,PA-46,100,light aircraft
+22,Beech,A36,100,light aircraft
+23,Beech,58,100,light aircraft
+24,Embraer,ERJ170,100,regional jet
+25,Embraer,ERJ175,100,regional jet
+26,Embraer,ERJ190,100,regional jet
+27,Embraer,ERJ195,100,regional jet
