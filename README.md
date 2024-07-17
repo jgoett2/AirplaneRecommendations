@@ -12,7 +12,7 @@ Our business is looking to move into the field of purchasing and leasing aircraf
 
 ## Data
 
-The data is the Aviation Accidents data set from the National Transportation Safety Board as posted on [Kaggle] (https://www.kaggle.com/datasets/yassereleraky/aviation-accident-ntsb)
+The data is the Aviation Accidents data set from the National Transportation Safety Board as posted on [Kaggle](https://www.kaggle.com/datasets/yassereleraky/aviation-accident-ntsb)
 
 ## Methods
 
@@ -27,7 +27,7 @@ Further analyses could yield additional insights to further improvements:
 
 ## Tableau Visualization
 
-See the [Tableau visualization ](https://public.tableau.com/authoring/TableauAirplaneRecommendations/AccidentDashboard#1)
+See the [Tableau visualization ](https://public.tableau.com/app/profile/jeffrey.goett/viz/TableauAirplaneRecommendations/AccidentDashboard)
 
 ## Repository Structure
 
