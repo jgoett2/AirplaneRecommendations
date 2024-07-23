@@ -45,9 +45,10 @@ See the [Tableau visualization ](https://public.tableau.com/app/profile/jeffrey.
 ```
 |── code
 │   ├── __init__.|py
-│   ├── data_preparation.py
+│   └── data_preparation.py
 ├── data
 ├── images
+├── __init__.py
 ├── README.md
 ├── Presentation.pdf
 ├── Presentation.pptx
