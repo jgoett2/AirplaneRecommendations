@@ -19,20 +19,21 @@ The National Transportation Safety Board Accident Database records every acciden
 
 This study will consider an accident to be serious if it involves one or more serious injuries, and an accident to be fatal if it involves one or more fatalities.
 
-Additional data on each model of airplane is imported.  This helps to identify the category of airplane (narrow-body or wide-body), and whether the airplane is currently in production.
+Additional data on each model of airplane is imported.  This helps to identify the category of airplane (narrow-body or wide-body), and whether the airplane is currently in production.  
 ![image info](./images/accident_time.png)
 ## Data Analysis
 ### Accident Severity vs. Engine Type
-We consider whether the type of airplane engine has a relationship to the severity of accident the plane is involved in.  Based on the graph below, we see a strong correlation between the type of engine and the proportion of fatal accidents an airplane is involved in.  Both turbo jet and turbo fan engine types are associated with fewer accidents involving fatalities.
+We consider whether the type of airplane engine has a relationship to the severity of accident the plane is involved in.  Based on the graph below, we see a strong correlation between the type of engine and the proportion of fatal accidents an airplane is involved in.  Both turbo jet and turbo fan engine types are associated with fewer accidents involving fatalities.  
+
 ![image info](./images/engine_type.png)
 
 ### Accident Severity vs. Aircraft Type
-We consider whether the type of airplane has a relationship to the severity of accident the plane is involved in.  Based on the graph below, we see a strong correlation between the type of airplane and the proportion of fatal accidents an airplane is involved in.  There is also a correlation between the type of airplane and the proportion of accidents involving an injury.
+We consider whether the type of airplane has a relationship to the severity of accident the plane is involved in.  Based on the graph below, we see a strong correlation between the type of airplane and the proportion of fatal accidents an airplane is involved in.  There is also a correlation between the type of airplane and the proportion of accidents involving an injury.  
 ![image info](./images/airplane_type.png)
 
 ### Accident Frequency vs. Make
 Finally, we would like to consider whether Boeing or Airbus airplanes are involved in accidents more frequently.  We compare the relative number of Boeing and Airbus planes in service vs. the relative number of accidents they are involved in.
-From the graph below, we see that Boeing aircraft are over-represented in the number of accidents logged by the top 3 carriers.  While 60% of the aircraft the carriers fleets are Boeing aircraft, 75% of accidents logged by the carries involved Boeing airplanes.
+From the graph below, we see that Boeing aircraft are over-represented in the number of accidents logged by the top 3 carriers.  While 60% of the aircraft the carriers fleets are Boeing aircraft, 75% of accidents logged by the carries involved Boeing airplanes.  
 ![image info](./images/make_type.png)
 
 ## Tableau Visualization
