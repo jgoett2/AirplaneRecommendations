@@ -28,7 +28,7 @@ We consider whether the type of airplane engine has a relationship to the severi
 
 ### Accident Severity vs. Aircraft Type
 We consider whether the type of airplane has a relationship to the severity of accident the plane is involved in.  Based on the graph below, we see a strong correlation between the type of airplane and the proportion of fatal accidents an airplane is involved in.  There is also a correlation between the type of airplane and the proportion of accidents involving an injury.
-![image info](./images/airplane_plane_cover.png)
+![image info](./images/airplane_type.png)
 
 ### Accident Frequency vs. Make
 Finally, we would like to consider whether Boeing or Airbus airplanes are involved in accidents more frequently.  We compare the relative number of Boeing and Airbus planes in service vs. the relative number of accidents they are involved in.
