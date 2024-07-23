@@ -43,6 +43,9 @@ See the [Tableau visualization ](https://public.tableau.com/app/profile/jeffrey.
 ## Repository Structure
 
 ```
+|── code
+│   ├── __init__.|py
+│   ├── data_preparation.py
 ├── data
 ├── images
 ├── README.md
