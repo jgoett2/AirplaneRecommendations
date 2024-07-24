@@ -47,6 +47,11 @@ Based on this analysis, we can make these recommendations to help minimize the s
 - **Airplane Type:** Select a Narrow-Body or Wide-Body aircraft
 - **Make:** Select an Airbus manufactured airplane.
 
+## Next Steps
+Next steps for this project would include:
+- Determine if differences between planes are statistically significant.
+- Do further research into the causes for each accident.  Determine if they are issues with the airplane itself, or with other systems (air traffic control, pilot error, etc.
+
 ## Repository Structure
 
 ```
