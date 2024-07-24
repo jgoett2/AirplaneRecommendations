@@ -40,6 +40,13 @@ From the graph below, we see that Boeing aircraft are over-represented in the nu
 
 See the [Tableau visualization ](https://public.tableau.com/app/profile/jeffrey.goett/viz/TableauAirplaneRecommendations/AccidentDashboard)
 
+## Conclusions
+
+Based on this analysis, we can make these recommendations to help minimize the safety risk of an airplane purchase.  
+- **Engine Type:** Select a Turbo Jet or Turbo Fan engine
+- **Airplane Type:** Select a Narrow-Body or Wide-Body aircraft
+- **Make:** Select an Airbus manufactured airplane.
+
 ## Repository Structure
 
 ```
