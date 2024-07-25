@@ -4,7 +4,7 @@
 
 ## Business Problem 
 ![image info](./images/photo_plane_cover.png)
-A company would like to purchase and lease airplanes, and wants to identify which features of an airplane are tied to its relative safety. When considering the safety of an aircraft, we will look at two different dimensions - how frequently is an airplane involved in an accident, and when it is in an accident, how  severe are the accidents?  
+A company would like to purchase and lease airplanes, and wants to identify which features of an airplane are tied to its relative safety. When considering the safety of an aircraft, we will look at two different dimensions - how frequently is an airplane involved in an accident, and when it is in an accident, how  severe are the accidents?   
 
 Ideally, this study will help us identify airplanes that are not frequently involved in an accident, and when they are, minimize the severity of the accident.  
 
